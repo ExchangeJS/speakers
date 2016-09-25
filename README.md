@@ -22,7 +22,7 @@ Talks should be 25 min long, with up to 10 min set aside for questions. To keep 
 
 1. Use titles that describe the content of the slide. If someone spaces out for a moment, they can always read the title and catch up.
 
-1. Remember that when reading code, different audience members will need different amounts of time to absorb the significance of each part. In a talk, everyone has to be moving at the same pace to keep with the speaker. Keep code sample minimal and use highlighting, arrows, and "appearance" animations to make them easier to absorb and **emphasize** the <span style="font-weight:bold; font-color:red">main</span>  &rarr;point&larr;.
+1. Remember that when reading code, different audience members will need different amounts of time to absorb the significance of each part. In a talk, everyone has to be moving at the same pace to keep with the speaker. Keep code sample minimal and use highlighting, arrows, and "appearance" animations to make them easier to absorb and **emphasize** the <span style="font-weight:bold; color:red">main</span>  &rarr;point&larr;.
 
 ### Preparation of presentations
 

@@ -1,8 +1,12 @@
 # Guidelines for Speakers
 
-Exchange.js talks include topics relevant to JavaScript programming and web development. Generally, talks fall into one of five categories:
+Exchange.js talks include topics relevant to JavaScript programming and web development. Generally, talks fall into one of the following categories:
 
-<!-- list them -->
+- beginning JavaScript *(eg. variables, functions)*
+- advanced JavaScript *(eg. design patterns, unit testing)*
+- tooling *(eg. WebKit, TypeScript)*
+- frameworks and libraries *(eg. Ember, Lodash)*
+- general web development and design *(eg. HTTP, accessibility)*
 
 Talks should be 25 min long, with up to 10 min set aside for questions. To keep the meeting on time, talks will be timed.
 
@@ -10,9 +14,9 @@ Talks should be 25 min long, with up to 10 min set aside for questions. To keep 
 
 ### Preparation of slides
 
-1. It is recommended that speakers prepare their slides using [Reveal.js](#) as this will make archiving easeier. However, Keynote and Powerpoint may be used.
+1. It is recommended that speakers prepare their slides using [Reveal.js](https://github.com/hakimel/reveal.js/) as this will make archiving easier. However, Keynote and Powerpoint may be used.
 
-1. As a rule of thumb, a single slide takes about  1 min to present. So presentations should be between 15 and 25 slides long.
+1. As a rule of thumb, a single slide takes about 1 min to present. So presentations should be between 15 and 25 slides long.
 
 1. **Show don't tell**. Don't use too much text as you'll be speaking at the same time. Wherever a point can be made with a visual instead of text, use it.
 
@@ -28,6 +32,6 @@ Talks should be 25 min long, with up to 10 min set aside for questions. To keep 
 
 ### Giving your talk
 
-1. By speaking at the [Exchange.js meetup](#), you agree to our [Code of conduct](#).
+1. By speaking at the Exchange.js meetup, you agree to our [Code of conduct](https://www.exchangejs.com/code-of-conduct.html).
 
 1. Relax. You're the best.

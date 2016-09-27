@@ -26,7 +26,7 @@ Talks should be 25 min long, with up to 10 min set aside for questions. To keep 
 
 1. **You will be timed, so practice**. Have an idea of what you will say for each slide and how you will transition between them. Then make sure your talk is about the right length.
 
-1. For recording purposes you'll have to **set up Google Hangouts** and have Wifi available.
+1. For recording purposes you'll have to **[set up Google Hangouts](https://www.google.com/tools/dlpage/hangoutplugin)** and have Wifi available.
 
 ### Giving your talk
 

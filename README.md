@@ -23,31 +23,45 @@ Slots fill quickly so [add your name, email, and topic to our signup sheet](http
 
 1. Remember that when reading code, different audience members will need different amounts of time to absorb the significance of each part. In a talk, everyone has to be moving at the same pace to keep with the speaker. **Keep code samples minimal** and use highlighting, arrows, and "appearance" animations to make them easier to absorb and **emphasize** the <span style="font-weight: bold; color: red">main</span>  &rarr;point&larr;.
 
-1. Your **speakers notes and code should be readable from a distance** and on small screens (like when watching recordings on a phone).
+1. Your **notes and code should be readable from a distance** and on small screens (like when watching recordings on a phone).
+
+1. Your **notes and code should work on a projector**. Contrast is your friend. Assume you only have a dark, light, and midrange colour. The lighter themes tend to work better for code samples.
+
+1. **Acknowledge the community that made your talk possible.** Who maintains the project you're using? Did someone help you get your talk ready or learn a new technology?
+
+1. **Explain how to get help**. This could be sharing your contact details, or suggesting a community forum.
+
+1. **Anticipate common questions** and prepare answers and slides to address them.
+
+1. If your talk is part of a series, **explain what came before and what's next**. How can you watch these?
+
+1. **Share the url of your talk** so people can review afterwards.
 
 ### Preperation of demos
 
-1. Install all dependencies required to run your demo in advance.
+1. **Install all dependencies** required to run your demo in advance.
 
-1. Make sure you can work with slow or broken internet. Trust us it happens.
+1. Make sure you can **work with slow or broken internet**. Trust us it happens.
 
-1. Your demo and code should be understandable from a distance. Reduce your screen resolution, or up your font size.
+1. Your **demo and code should be understandable from a distance**. Reduce your screen resolution, or up your IDE font size.
 
 ### Preparation of presentations
 
-1. **You will be timed, so practice**. Have an idea of what you will say for each slide and how you will transition between them. Then make sure your talk is about the right length.
+1. **You will be timed, so practice**. Have an idea of what you will say for each slide and how you will transition between them. Then make sure your talk is about the right length. We can make someone available if you want to practice in front of an audience.
 
-1. We record directly from the HDMI out going into the projector, so make sure your machine has a working HDMI or Display Port connector.
+1. We record directly from the HDMI out going into the projector, so **make sure your machine has a working HDMI** or Display Port connector.
 
-1. Charge your battery or bring an extra power supply.
+1. **Charge your battery** or bring an extra power supply.
 
 ### Giving your talk
 
-1. By speaking at the Exchange.js meetup, you agree to our [Code of conduct](https://www.exchangejs.com/code-of-conduct/).
+1. By speaking at the Exchange.js meetup, **you agree to our [Code of conduct](https://www.exchangejs.com/code-of-conduct/)**.
 
 1. **Stand still**. You don't need to stand behind the podium but stand still if you want us to keep you in the video.
 
-1. Relax. You're the best.
+1. If you take questions, please repeat them back for those that didn't hear.
+
+1. **Relax. You're the best.**
 
 ### After your talk
 
